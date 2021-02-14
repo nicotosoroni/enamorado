@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(#f3c4c4, #a37896);
+}
+
+p {
+    color: red;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(#6e0808, #ca2298);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2 {
+    font-size: 52px;
+    background: -webkit-linear-gradient(#26045c, #6347e2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
